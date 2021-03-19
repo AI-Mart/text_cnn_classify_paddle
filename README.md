@@ -1,0 +1,2 @@
+# text_cnn_classify_paddle
+ 基于PaddlePaddletext_cnn文本分类
