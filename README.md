@@ -4,14 +4,14 @@
 1 所有文件的路径/home/aistudio/data 改成./data/ \
 2 train.py 64行增加paddle.enable_static()#####add by mart 21-3-19 \
 3 predict.py 8行增加paddle.enable_static()#####add by mart 21-3-19 \
-4 predict.py 35行改成data.append(np.int64(dict_txt[s]))#change by mart 21-3-19 \
+4 predict.py 35行改成data.append(np.int64(dict_txt[s]))#change by mart 21-3-19 
 
 二、 \
 data.py 生产字典构造数据集\
 train.py 训练模型\
 predict.py 基于训练好的模型进行预测\
 data 存放数据集的文件夹\
-work 存放模型的文件夹\
+work 存放模型的文件夹
 
 三、\
 运行predict.py结果示例\
