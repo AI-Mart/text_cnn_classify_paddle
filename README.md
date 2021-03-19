@@ -1,4 +1,4 @@
-# text_cnn_classify_paddle\
+# text_cnn_classify_paddle
  基于PaddlePaddletext_cnn文本分类\
 一、更新位置 \
 1 所有文件的路径/home/aistudio/data 改成./data/ \
